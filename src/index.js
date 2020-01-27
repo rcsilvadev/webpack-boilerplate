@@ -1,0 +1,1 @@
+const hey = "Ferris wheel is spinning!";
